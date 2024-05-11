@@ -193,5 +193,17 @@ bar {
 
 ############### New rules added by frank ###############
 
+##these settings are from i3wm by alex booker on yt  
 ##lock screen
 bindsym $mod+shift+x exec i3lock
+#start wallpaper on startup
+exec_always feh --bg-scale /home/frank/Pictures/kelowna-wallpaper.jpg
+#for multiple monitors use arandr
+#for configuring brightness check yt video
+
+#change name of default terminals around line 117
+
+#open default terminal to 1
+# use xprop to find 2nd value in class name after clicking on window u want to find the class of
+assign [class="Gnome-terminal"] $ws1
+assign [class="firefox"] $ws2
