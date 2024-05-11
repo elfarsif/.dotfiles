@@ -207,3 +207,4 @@ exec_always feh --bg-scale /home/frank/.dotfiles/wallpapers/kelowna-wallpaper.jp
 # use xprop to find 2nd value in class name after clicking on window u want to find the class of
 assign [class="Gnome-terminal"] $ws1
 assign [class="firefox"] $ws2
+assign [class="Alacritty"] $ws1
