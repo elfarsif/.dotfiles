@@ -197,7 +197,7 @@ bar {
 ##lock screen
 bindsym $mod+shift+x exec i3lock
 #start wallpaper on startup
-exec_always feh --bg-scale /home/frank/Pictures/kelowna-wallpaper.jpg
+exec_always feh --bg-scale /home/frank/.dotfiles/wallpapers/kelowna-wallpaper.jpg
 #for multiple monitors use arandr
 #for configuring brightness check yt video
 
