@@ -208,3 +208,4 @@ exec_always feh --bg-scale /home/frank/.dotfiles/wallpapers/kelowna-wallpaper.jp
 assign [class="Gnome-terminal"] $ws1
 assign [class="firefox"] $ws2
 assign [class="Alacritty"] $ws1
+assign [class="Gimp"] $ws3
